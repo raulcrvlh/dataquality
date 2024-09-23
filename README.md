@@ -13,6 +13,7 @@ Crie seu dataquality Utilizando de POO, crie um módulo que importado para um ju
 
 ## Como utilizar:
 `from data_quality import DataQuality as dq`
+
 `df = dq.generate_report()`
 
 ### Análises feitas além do proposto:
